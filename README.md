@@ -8,8 +8,15 @@
 [![Tests](https://img.shields.io/badge/Tests-16%20Passed-brightgreen.svg)](tests/)
 
 ---
-AUTHOR
-TALARI ROHITH
+
+## 👥 Student & Author Information
+
+- **Student Name**: `TALARI ROHITH`
+- **Roll Number / Student ID**: `RA2411026050153`
+- **Course / Department**: Machine Learning / AIML
+- **Institution**: `SRM INSTITUTE OF SCIENCE AND TECHNOLOGY`
+
+---
 
 ## 1. Project Overview
 **Electric Vehicle Data Intelligence & Analytics** is an end-to-end, reproducible data science and machine learning repository developed to satisfy the academic curriculum requirements of **Task 1: Group Discussion and Demonstration Method on Data Import, Exploration and Statistical Analysis using Python**.
