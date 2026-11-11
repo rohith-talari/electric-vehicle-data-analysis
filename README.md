@@ -1,4 +1,4 @@
-# ⚡ ELECTRIC VEHICLE DATA INTELLIGENCE & ANALYTICS
+# ELECTRIC VEHICLE DATA INTELLIGENCE & ANALYTICS
 ### Data Import, Exploration, Preprocessing, Statistical Analysis, and Visualization Pipeline
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
