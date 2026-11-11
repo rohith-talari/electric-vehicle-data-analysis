@@ -8,7 +8,7 @@
 [![Tests](https://img.shields.io/badge/Tests-16%20Passed-brightgreen.svg)](tests/)
 
 ---
-##AUTHOR
+AUTHOR
 TALARI ROHITH
 
 ## 1. Project Overview
