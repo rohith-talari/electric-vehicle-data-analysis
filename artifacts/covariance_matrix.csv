@@ -1,0 +1,9 @@
+,Battery_Capacity_kWh,Electric_Range_Miles,Base_MSRP_USD,Charging_Time_Hours,Energy_Consumption_Wh_km,Acceleration_0_100_s,Top_Speed_kmh,Range_Efficiency_Miles_per_kWh
+Battery_Capacity_kWh,896.54,2962.45,233300.82,79.5,66.99,-14.57,301.04,11.95
+Electric_Range_Miles,2962.45,12114.15,421387.38,270.18,-869.04,-40.51,916.41,75.86
+Base_MSRP_USD,233300.82,421387.38,409171324.66,21853.12,301967.32,-14924.58,426323.85,-4319.09
+Charging_Time_Hours,79.5,270.18,21853.12,7.65,5.14,-1.33,28.47,1.16
+Energy_Consumption_Wh_km,66.99,-869.04,301967.32,5.14,1231.96,-10.08,104.08,-20.81
+Acceleration_0_100_s,-14.57,-40.51,-14924.58,-1.33,-10.08,1.6,-26.5,0.02
+Top_Speed_kmh,301.04,916.41,426323.85,28.47,104.08,-26.5,902.43,1.59
+Range_Efficiency_Miles_per_kWh,11.95,75.86,-4319.09,1.16,-20.81,0.02,1.59,0.87

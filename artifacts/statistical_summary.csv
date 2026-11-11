@@ -1,0 +1,9 @@
+Feature,Mean,Median,Mode,Variance,Std_Dev,Range,IQR,Skewness,Kurtosis,Normality
+Battery_Capacity_kWh,62.0,68.25,68.25,896.54,29.94,118.2,60.22,-0.414,-0.755,Non-Normal (p<=0.05)
+Electric_Range_Miles,206.25,244.0,15.0,12114.15,110.06,411.0,222.75,-0.659,-0.834,Non-Normal (p<=0.05)
+Base_MSRP_USD,54428.84,47794.0,47794.0,409171324.66,20227.98,107453.0,14776.5,1.464,1.662,Non-Normal (p<=0.05)
+Charging_Time_Hours,5.64,6.1,1.2,7.65,2.77,11.7,5.28,-0.284,-0.705,Non-Normal (p<=0.05)
+Energy_Consumption_Wh_km,187.62,181.25,120.0,1231.96,35.1,180.5,40.32,0.818,0.493,Non-Normal (p<=0.05)
+Acceleration_0_100_s,5.55,5.5,5.5,1.6,1.26,6.0,1.9,0.095,-0.735,Non-Normal (p<=0.05)
+Top_Speed_kmh,188.92,183.0,180.0,902.43,30.04,123.0,40.0,0.691,-0.407,Non-Normal (p<=0.05)
+Range_Efficiency_Miles_per_kWh,3.13,3.33,4.07,0.87,0.93,5.69,1.29,-0.682,0.041,Non-Normal (p<=0.05)

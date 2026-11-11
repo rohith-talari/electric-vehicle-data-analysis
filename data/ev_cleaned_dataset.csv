@@ -1,0 +1,451 @@
+VIN_Prefix,Make,Model,Model_Year,EV_Type,CAFV_Eligibility,Battery_Capacity_kWh,Electric_Range_Miles,Base_MSRP_USD,Charging_Time_Hours,Energy_Consumption_Wh_km,Acceleration_0_100_s,Top_Speed_kmh,Range_Efficiency_Miles_per_kWh,Cost_per_Range_Mile_USD
+1G1230E,Kia,Niro EV,2025,BEV,Clean Alternative Fuel Vehicle Eligible,65.5,272,40295.0,5.3,141.9,7.1,163,4.15,148.14
+1G1343E,Porsche,Taycan,2021,BEV,Clean Alternative Fuel Vehicle Eligible,89.5,230,85832.0,7.8,222.2,4.0,243,2.57,373.18
+1G1191E,Tesla,Model S,2025,BEV,Clean Alternative Fuel Vehicle Eligible,98.0,396,89246.0,8.2,183.6,3.3,249,4.04,225.37
+1G1871E,Toyota,bZ4X,2024,BEV,Clean Alternative Fuel Vehicle Eligible,67.7,243,40390.0,5.6,175.5,7.4,172,3.59,166.21
+1G1801E,Porsche,Taycan,2021,BEV,Clean Alternative Fuel Vehicle Eligible,87.9,218,90955.0,8.0,227.5,4.1,235,2.48,417.22
+1G1956E,Ford,Mustang Mach-E,2025,BEV,Clean Alternative Fuel Vehicle Eligible,89.2,297,46931.0,7.3,175.5,5.4,171,3.33,158.02
+1G1300E,Kia,Niro EV,2023,BEV,Clean Alternative Fuel Vehicle Eligible,65.8,246,42308.0,6.7,164.1,7.6,171,3.74,171.98
+1G1561E,Ford,Mustang Mach-E,2023,BEV,Clean Alternative Fuel Vehicle Eligible,74.2,222,47468.0,6.5,189.6,5.9,166,2.99,213.82
+1G1195E,Tesla,Model S,2025,BEV,Clean Alternative Fuel Vehicle Eligible,97.8,414,70785.0,8.4,185.9,3.4,247,4.23,170.98
+1G1655E,Hyundai,Ioniq 5,2026,BEV,Clean Alternative Fuel Vehicle Eligible,65.1,248,43615.0,6.5,177.2,4.9,187,3.81,175.87
+1G1555E,Jeep,Wrangler 4xe,2025,PHEV,Not eligible due to low battery range,16.2,16,56584.0,1.3,263.0,5.5,162,0.99,3536.5
+1G1541E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,119.5,282,54074.0,9.4,259.1,3.9,190,2.36,191.75
+1G1737E,Jeep,Wrangler 4xe,2022,PHEV,Not eligible due to low battery range,16.2,26,54418.0,1.5,259.2,6.1,158,1.6,2093.0
+1G1709E,Tesla,Model Y,2024,BEV,Clean Alternative Fuel Vehicle Eligible,72.6,286,49576.0,6.5,179.3,4.6,212,3.94,173.34
+1G1445E,Kia,EV6,2023,BEV,Clean Alternative Fuel Vehicle Eligible,73.2,297,50390.0,6.1,167.8,5.2,191,4.06,169.66
+1G1397E,Tesla,Model S,2025,BEV,Clean Alternative Fuel Vehicle Eligible,97.4,364,91877.0,9.0,176.6,3.4,255,3.74,252.41
+1G1758E,Tesla,Model S,2022,BEV,Clean Alternative Fuel Vehicle Eligible,95.9,392,85427.0,8.1,183.5,3.3,251,4.09,217.93
+1G1252E,Toyota,Prius Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,15.0,45,37640.0,1.5,120.0,7.0,189,3.0,836.44
+1G1995E,BMW,330e,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,13.6,41,47538.0,1.3,187.5,5.3,220,3.01,1159.46
+1G1325E,Ford,Mustang Mach-E,2025,BEV,Clean Alternative Fuel Vehicle Eligible,82.5,264,41887.0,7.8,193.8,5.0,178,3.2,158.66
+1G1319E,Chrysler,Pacifica Hybrid,2024,PHEV,Not eligible due to low battery range,13.9,27,49470.0,1.2,240.4,8.1,168,1.94,1832.22
+1G1892E,Nissan,Ariya,2026,BEV,Clean Alternative Fuel Vehicle Eligible,72.6,236,45064.0,5.9,173.5,6.7,166,3.25,190.95
+1G1910E,Volkswagen,ID.4,2026,BEV,Clean Alternative Fuel Vehicle Eligible,74.6,252,43981.0,7.2,178.6,6.9,164,3.38,174.53
+1G1499E,Porsche,Taycan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,84.1,227,95845.0,8.1,225.7,5.3,259,2.7,422.22
+1G1413E,Nissan,Ariya,2025,BEV,Clean Alternative Fuel Vehicle Eligible,70.0,226,45112.0,6.0,201.1,7.2,145,3.23,199.61
+1G1449E,Porsche,Taycan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,80.3,188,99127.0,6.6,232.1,3.8,248,2.34,527.27
+1G1733E,Toyota,bZ4X,2024,BEV,Clean Alternative Fuel Vehicle Eligible,62.5,196,41518.0,4.9,197.8,7.8,154,3.14,211.83
+1G1253E,Tesla,Model 3,2023,BEV,Clean Alternative Fuel Vehicle Eligible,62.0,263,50372.0,4.9,176.6,4.3,221,4.24,191.53
+1G1456E,Toyota,Prius Prime,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,12.6,37,31623.0,1.2,129.5,6.4,188,2.94,854.68
+1G1357E,Audi,e-tron GT,2021,BEV,Clean Alternative Fuel Vehicle Eligible,92.4,241,132453.0,9.5,224.7,3.9,257,2.61,549.6
+1G1676E,Toyota,RAV4 Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,19.0,56,43445.0,1.8,184.8,5.8,183,2.95,775.8
+1G1704E,Tesla,Model 3,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,238,42993.0,5.7,144.6,4.2,233,3.49,180.64
+1G1860E,Volkswagen,ID.4,2021,BEV,Clean Alternative Fuel Vehicle Eligible,77.4,255,40770.0,7.7,178.6,7.8,164,3.29,159.88
+1G1972E,Hyundai,Ioniq 5,2022,BEV,Clean Alternative Fuel Vehicle Eligible,69.9,258,39278.0,6.8,183.5,5.5,181,3.69,152.24
+1G1243E,Toyota,RAV4 Prime,2024,PHEV,Not eligible due to low battery range,15.8,26,47202.0,6.1,178.0,5.7,196,1.65,1815.46
+1G1273E,Chrysler,Pacifica Hybrid,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,13.8,30,57199.0,1.4,240.9,7.9,170,2.17,1906.63
+1G1400E,Chevrolet,Bolt EV,2022,BEV,Clean Alternative Fuel Vehicle Eligible,62.6,250,29833.0,6.4,156.8,6.6,153,3.99,119.33
+1G1853E,Hyundai,Ioniq 5,2023,BEV,Clean Alternative Fuel Vehicle Eligible,68.2,262,39315.0,5.7,160.8,5.4,169,3.84,150.06
+1G1216E,Jeep,Wrangler 4xe,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,19.2,33,56855.0,1.9,245.5,6.0,153,1.72,1722.88
+1G1404E,Kia,EV6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,74.1,303,45627.0,6.1,167.3,5.3,186,4.09,150.58
+1G1221E,Nissan,Ariya,2023,BEV,Clean Alternative Fuel Vehicle Eligible,85.6,298,45657.0,7.4,169.2,7.3,158,3.48,153.21
+1G1657E,Hyundai,Ioniq 5,2023,BEV,Clean Alternative Fuel Vehicle Eligible,63.7,251,43834.0,6.1,177.5,5.8,180,3.94,174.64
+1G1323E,Tesla,Model S,2025,BEV,Clean Alternative Fuel Vehicle Eligible,100.9,426,93361.0,10.0,184.3,3.1,247,4.22,219.16
+1G1922E,Toyota,bZ4X,2022,BEV,Clean Alternative Fuel Vehicle Eligible,68.7,241,42926.0,5.8,155.5,7.6,152,3.51,178.12
+1G1556E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.8,277,50439.0,5.8,165.6,5.4,195,4.03,182.09
+1G1335E,Nissan,Ariya,2023,BEV,Clean Alternative Fuel Vehicle Eligible,70.1,226,32372.0,7.0,172.8,7.1,167,3.22,143.24
+1G1803E,Hyundai,Ioniq 6,2021,BEV,Clean Alternative Fuel Vehicle Eligible,71.5,363,46049.0,7.3,154.5,5.0,189,5.08,126.86
+1G1858E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,70.6,239,48165.0,6.2,187.0,5.1,217,3.39,201.53
+1G1851E,Volkswagen,ID.4,2025,BEV,Clean Alternative Fuel Vehicle Eligible,78.4,262,43798.0,7.4,154.3,7.3,159,3.34,167.17
+1G1160E,BMW,i4 Gran Coupe,2021,BEV,Clean Alternative Fuel Vehicle Eligible,68.9,235,48854.0,6.6,164.4,5.1,197,3.41,207.89
+1G1172E,Volvo,XC60 Recharge,2021,PHEV,Not eligible due to low battery range,17.6,26,50057.0,1.7,205.6,4.4,161,1.48,1925.27
+1G1825E,Toyota,bZ4X,2024,BEV,Clean Alternative Fuel Vehicle Eligible,63.9,222,46463.0,5.6,174.7,7.8,155,3.47,209.29
+1G1605E,Nissan,Ariya,2024,BEV,Clean Alternative Fuel Vehicle Eligible,74.3,240,47582.0,6.0,208.8,7.3,168,3.23,198.26
+1G1208E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,61.6,229,42796.0,6.1,188.9,4.8,192,3.72,186.88
+1G1837E,BMW,330e,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,14.3,33,39974.0,1.4,186.2,5.5,218,2.31,1211.33
+1G1946E,Mercedes-Benz,EQE Sedan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,89.7,286,83223.0,6.1,191.7,6.2,217,3.19,290.99
+1G1509E,Kia,EV6,2026,BEV,Clean Alternative Fuel Vehicle Eligible,68.7,281,48374.0,5.7,184.4,5.8,184,4.09,172.15
+1G1944E,Porsche,Taycan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,82.4,237,100481.0,8.5,220.1,4.3,242,2.88,423.97
+1G1428E,BMW,i4 Gran Coupe,2024,BEV,Clean Alternative Fuel Vehicle Eligible,75.7,248,48752.0,6.1,159.2,5.6,192,3.28,196.58
+1G1419E,Toyota,RAV4 Prime,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,20.0,51,41494.0,2.1,174.9,6.2,170,2.55,813.61
+1G1673E,Porsche,Taycan,2021,BEV,Clean Alternative Fuel Vehicle Eligible,91.1,248,93453.0,8.6,214.3,4.2,244,2.72,376.83
+1G1764E,Hyundai,Ioniq 5,2023,BEV,Clean Alternative Fuel Vehicle Eligible,68.7,291,44534.0,6.1,175.1,5.2,202,4.24,153.04
+1G1547E,Toyota,RAV4 Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,19.4,46,43965.0,1.7,181.7,5.8,184,2.37,955.76
+1G1353E,Jeep,Wrangler 4xe,2025,PHEV,Not eligible due to low battery range,18.7,24,56167.0,1.8,249.1,6.1,153,1.28,2340.29
+1G1229E,Hyundai,Ioniq 5,2024,BEV,Clean Alternative Fuel Vehicle Eligible,72.3,292,48172.0,7.0,163.7,4.9,180,4.04,164.97
+1G1240E,Volvo,XC60 Recharge,2024,PHEV,Not eligible due to low battery range,17.6,17,52060.0,1.4,211.5,5.0,179,0.97,3062.35
+1G1477E,Ford,Mustang Mach-E,2024,BEV,Clean Alternative Fuel Vehicle Eligible,83.0,273,47054.0,7.7,177.1,5.4,183,3.29,172.36
+1G1236E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,120.8,293,56445.0,9.5,263.1,4.5,192,2.43,192.65
+1G1628E,Volkswagen,ID.4,2025,BEV,Clean Alternative Fuel Vehicle Eligible,60.6,183,45168.0,5.9,162.1,7.3,149,3.02,246.82
+1G1148E,BMW,i4 Gran Coupe,2021,BEV,Clean Alternative Fuel Vehicle Eligible,83.0,279,55338.0,6.9,155.9,5.3,184,3.36,198.34
+1G1534E,Kia,Niro EV,2026,BEV,Clean Alternative Fuel Vehicle Eligible,66.5,261,40156.0,5.9,151.4,7.2,158,3.92,153.85
+1G1930E,Mercedes-Benz,EQE Sedan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,94.5,304,86820.0,8.7,169.2,5.3,200,3.22,285.59
+1G1277E,Hyundai,Ioniq 5,2022,BEV,Clean Alternative Fuel Vehicle Eligible,74.5,297,44266.0,6.1,164.4,4.6,184,3.99,149.04
+1G1517E,Kia,Niro EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,63.7,239,42312.0,5.3,167.0,7.1,158,3.75,177.04
+1G1106E,Tesla,Model S,2022,BEV,Clean Alternative Fuel Vehicle Eligible,99.0,403,96195.0,10.1,178.4,2.7,242,4.07,238.7
+1G1360E,Volkswagen,ID.4,2021,BEV,Clean Alternative Fuel Vehicle Eligible,63.7,234,33926.0,5.4,188.2,7.0,145,3.67,144.98
+1G1625E,Hyundai,Ioniq 6,2023,BEV,Clean Alternative Fuel Vehicle Eligible,63.8,291,47004.0,5.0,139.6,5.1,195,4.56,161.53
+1G1252E,Ford,F-150 Lightning,2024,BEV,Clean Alternative Fuel Vehicle Eligible,118.0,283,51730.0,10.9,263.7,4.1,184,2.4,182.79
+1G1733E,Kia,EV6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,64.4,276,42779.0,5.6,170.4,5.4,191,4.29,155.0
+1G1212E,Nissan,Ariya,2021,BEV,Clean Alternative Fuel Vehicle Eligible,66.5,220,37033.0,5.8,162.8,7.4,153,3.31,168.33
+1G1343E,Kia,Niro EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,65.6,254,41842.0,5.4,165.0,6.7,153,3.87,164.73
+1G1715E,BMW,i4 Gran Coupe,2025,BEV,Clean Alternative Fuel Vehicle Eligible,83.7,287,46949.0,8.1,154.5,5.4,175,3.43,163.59
+1G1438E,Volkswagen,ID.4,2023,BEV,Clean Alternative Fuel Vehicle Eligible,63.1,203,42270.0,6.5,166.3,7.7,160,3.22,208.23
+1G1115E,Ford,Mustang Mach-E,2024,BEV,Clean Alternative Fuel Vehicle Eligible,87.2,294,50060.0,6.8,186.4,5.7,176,3.37,170.27
+1G1576E,Kia,Niro EV,2026,BEV,Clean Alternative Fuel Vehicle Eligible,61.9,238,45532.0,5.5,160.1,6.9,165,3.84,191.31
+1G1230E,BMW,330e,2024,PHEV,Not eligible due to low battery range,14.0,15,52141.0,1.3,204.0,6.1,213,1.07,3476.07
+1G1592E,Hyundai,Ioniq 6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,65.9,284,45496.0,6.0,155.3,5.6,191,4.31,160.2
+1G1847E,Volkswagen,ID.4,2025,BEV,Clean Alternative Fuel Vehicle Eligible,70.7,236,44599.0,6.6,174.8,7.2,155,3.34,188.98
+1G1531E,Toyota,bZ4X,2023,BEV,Clean Alternative Fuel Vehicle Eligible,64.6,202,36945.0,6.0,184.5,7.4,165,3.13,182.9
+1G1443E,Tesla,Model 3,2026,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,228,44620.0,5.9,162.7,4.5,225,3.34,195.7
+1G1206E,BMW,i4 Gran Coupe,2026,BEV,Clean Alternative Fuel Vehicle Eligible,83.6,300,61753.0,6.7,171.2,5.4,185,3.59,205.84
+1G1518E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,61.5,244,49570.0,5.2,178.3,4.3,236,3.97,203.16
+1G1734E,BMW,330e,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,11.9,34,47794.0,1.2,193.7,5.8,239,2.86,1405.71
+1G1350E,Ford,F-150 Lightning,2021,BEV,Clean Alternative Fuel Vehicle Eligible,126.0,305,54350.0,9.8,270.3,4.2,173,2.42,178.2
+1G1315E,Hyundai,Ioniq 6,2021,BEV,Clean Alternative Fuel Vehicle Eligible,67.4,314,47641.0,6.6,154.0,5.4,186,4.66,151.72
+1G1656E,Volvo,XC60 Recharge,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,18.4,31,56085.0,1.9,195.7,4.2,184,1.68,1809.19
+1G1766E,Volvo,XC60 Recharge,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,18.0,41,68759.0,1.4,197.2,4.6,175,2.28,1677.05
+1G1377E,Toyota,RAV4 Prime,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,17.8,43,49962.0,1.7,168.1,5.6,176,2.42,1161.91
+1G1559E,Hyundai,Ioniq 5,2022,BEV,Clean Alternative Fuel Vehicle Eligible,74.1,301,39191.0,6.9,188.2,5.1,179,4.06,130.2
+1G1174E,Kia,Niro EV,2021,BEV,Clean Alternative Fuel Vehicle Eligible,66.5,254,38042.0,6.6,162.9,6.7,176,3.82,149.77
+1G1262E,Jeep,Wrangler 4xe,2025,PHEV,Not eligible due to low battery range,16.6,16,50218.0,1.6,271.6,5.8,152,0.96,3138.62
+1G1486E,Toyota,RAV4 Prime,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,18.0,55,47031.0,1.8,185.7,5.9,183,3.06,855.11
+1G1777E,BMW,iX xDrive50,2021,BEV,Clean Alternative Fuel Vehicle Eligible,112.9,316,78717.0,10.0,213.7,4.6,193,2.8,249.1
+1G1419E,Toyota,Prius Prime,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,11.2,43,31907.0,1.2,132.2,6.9,179,3.84,742.02
+1G1500E,BMW,330e,2023,PHEV,Not eligible due to low battery range,13.5,15,47436.0,1.2,194.8,5.8,225,1.11,3162.4
+1G1688E,BMW,iX xDrive50,2026,BEV,Clean Alternative Fuel Vehicle Eligible,109.5,301,95557.0,9.5,201.2,5.2,200,2.75,317.47
+1G1322E,Jeep,Wrangler 4xe,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,18.7,30,56345.0,1.8,262.1,5.9,167,1.6,1878.17
+1G1614E,Ford,F-150 Lightning,2024,BEV,Clean Alternative Fuel Vehicle Eligible,128.1,320,62018.0,11.5,293.2,3.9,181,2.5,193.81
+1G1784E,Ford,F-150 Lightning,2022,BEV,Clean Alternative Fuel Vehicle Eligible,113.4,295,53687.0,10.2,264.4,4.9,188,2.6,181.99
+1G1306E,Ford,Mustang Mach-E,2025,BEV,Clean Alternative Fuel Vehicle Eligible,79.9,230,43698.0,7.1,171.3,5.3,176,2.88,189.99
+1G1661E,Tesla,Model 3,2025,BEV,Clean Alternative Fuel Vehicle Eligible,60.4,255,46888.0,5.5,168.7,4.6,231,4.22,183.87
+1G1285E,Toyota,RAV4 Prime,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,18.0,37,51086.0,1.9,186.0,6.3,189,2.06,1380.7
+1G1625E,Porsche,Taycan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,86.5,226,97548.0,8.2,236.6,3.7,237,2.61,431.63
+1G1842E,Nissan,Ariya,2024,BEV,Clean Alternative Fuel Vehicle Eligible,72.8,229,44899.0,6.9,193.4,6.9,174,3.15,196.07
+1G1386E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,65.6,259,45057.0,5.5,155.8,5.2,197,3.95,173.97
+1G1412E,BMW,i4 Gran Coupe,2025,BEV,Clean Alternative Fuel Vehicle Eligible,73.0,238,52095.0,7.5,186.9,5.6,179,3.26,218.89
+1G1719E,Porsche,Taycan,2022,BEV,Clean Alternative Fuel Vehicle Eligible,81.0,228,99731.0,8.2,223.6,4.0,260,2.81,437.42
+1G1589E,Jeep,Wrangler 4xe,2023,PHEV,Not eligible due to low battery range,18.4,24,59106.0,1.4,260.8,6.0,144,1.3,2462.75
+1G1483E,Jeep,Wrangler 4xe,2026,PHEV,Not eligible due to low battery range,18.7,27,63867.0,1.5,280.9,5.0,158,1.44,2365.44
+1G1274E,Chevrolet,Bolt EV,2022,BEV,Clean Alternative Fuel Vehicle Eligible,63.9,260,28819.0,6.6,155.4,6.2,145,4.07,110.84
+1G1444E,Tesla,Model Y,2024,BEV,Clean Alternative Fuel Vehicle Eligible,80.4,300,52966.0,6.5,175.7,4.6,221,3.73,176.55
+1G1188E,Nissan,Ariya,2026,BEV,Clean Alternative Fuel Vehicle Eligible,78.7,279,44569.0,7.9,161.9,7.0,167,3.55,159.75
+1G1496E,Toyota,Prius Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,12.7,37,39115.0,1.3,133.9,6.8,186,2.91,1057.16
+1G1927E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,124.5,293,50301.0,11.5,293.4,4.5,192,2.35,171.68
+1G1553E,Tesla,Model 3,2022,BEV,Clean Alternative Fuel Vehicle Eligible,66.5,286,39687.0,6.1,169.8,5.0,222,4.3,138.77
+1G1463E,Chrysler,Pacifica Hybrid,2025,PHEV,Not eligible due to low battery range,16.1,18,53988.0,1.6,250.2,7.2,152,1.12,2999.33
+1G1663E,BMW,i4 Gran Coupe,2021,BEV,Clean Alternative Fuel Vehicle Eligible,69.1,252,50211.0,5.8,164.7,5.7,182,3.65,199.25
+1G1558E,Nissan,Ariya,2023,BEV,Clean Alternative Fuel Vehicle Eligible,79.4,264,49622.0,6.4,172.0,7.5,147,3.32,187.96
+1G1475E,Kia,Niro EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,67.6,266,42508.0,6.2,176.0,6.8,166,3.93,159.8
+1G1736E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,66.8,270,29275.0,5.9,165.0,6.6,139,4.04,108.43
+1G1775E,Volkswagen,ID.4,2026,BEV,Clean Alternative Fuel Vehicle Eligible,70.2,227,46305.0,5.6,193.2,7.1,153,3.23,203.99
+1G1749E,Volkswagen,ID.4,2023,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,241,39095.0,6.9,187.2,7.5,172,3.53,162.22
+1G1852E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,118.1,288,58023.0,11.4,265.6,3.8,164,2.44,201.47
+1G1807E,BMW,i4 Gran Coupe,2026,BEV,Clean Alternative Fuel Vehicle Eligible,68.8,240,47794.0,6.0,154.0,5.7,184,3.49,199.14
+1G1358E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,64.1,263,32168.0,5.5,164.6,6.5,166,4.1,122.31
+1G1944E,Porsche,Taycan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,94.4,271,91405.0,9.8,221.0,4.6,244,2.87,337.29
+1G1336E,Toyota,bZ4X,2022,BEV,Clean Alternative Fuel Vehicle Eligible,67.5,227,39528.0,6.9,190.9,7.9,164,3.36,174.13
+1G1883E,Audi,e-tron GT,2023,BEV,Clean Alternative Fuel Vehicle Eligible,87.3,224,127460.0,7.0,216.9,4.0,242,2.57,569.02
+1G1410E,BMW,iX xDrive50,2025,BEV,Clean Alternative Fuel Vehicle Eligible,108.4,282,47794.0,10.2,199.0,4.8,182,2.6,169.48
+1G1625E,Kia,EV6,2026,BEV,Clean Alternative Fuel Vehicle Eligible,67.8,270,50532.0,6.7,174.7,5.1,187,3.98,187.16
+1G1388E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,98.1,233,56584.0,8.9,281.2,4.3,185,2.38,242.85
+1G1178E,Hyundai,Ioniq 5,2024,BEV,Clean Alternative Fuel Vehicle Eligible,61.1,237,45594.0,5.6,167.4,5.4,176,3.88,192.38
+1G1616E,Hyundai,Ioniq 5,2021,BEV,Clean Alternative Fuel Vehicle Eligible,73.4,275,42709.0,6.4,151.4,4.9,195,3.75,155.31
+1G1255E,Volvo,XC60 Recharge,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,21.3,38,50971.0,1.7,192.7,4.8,177,1.78,1341.34
+1G1162E,Nissan,Ariya,2022,BEV,Clean Alternative Fuel Vehicle Eligible,79.6,252,37888.0,7.1,183.0,7.5,178,3.17,150.35
+1G1485E,Hyundai,Ioniq 6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,63.2,280,50206.0,4.9,151.8,5.0,191,4.43,179.31
+1G1799E,Chrysler,Pacifica Hybrid,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,15.2,35,43766.0,1.2,239.8,7.9,174,2.3,1250.46
+1G1535E,BMW,i4 Gran Coupe,2023,BEV,Clean Alternative Fuel Vehicle Eligible,81.1,279,51548.0,7.1,163.3,5.2,203,3.44,184.76
+1G1858E,Kia,EV6,2023,BEV,Clean Alternative Fuel Vehicle Eligible,77.2,311,44908.0,7.7,180.1,5.1,179,4.03,144.4
+1G1186E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,70.0,258,53081.0,5.5,166.0,4.8,216,3.69,205.74
+1G1872E,BMW,i4 Gran Coupe,2024,BEV,Clean Alternative Fuel Vehicle Eligible,76.7,277,55584.0,6.8,158.9,5.5,199,3.61,200.66
+1G1268E,Porsche,Taycan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,83.9,236,85391.0,8.3,222.8,3.8,242,2.81,361.83
+1G1991E,Audi,e-tron GT,2021,BEV,Clean Alternative Fuel Vehicle Eligible,92.1,245,105785.0,9.2,230.3,4.0,249,2.66,431.78
+1G1987E,Tesla,Model Y,2022,BEV,Clean Alternative Fuel Vehicle Eligible,65.5,221,55895.0,6.6,169.8,4.4,214,3.37,252.92
+1G1335E,Chrysler,Pacifica Hybrid,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,15.7,34,51185.0,1.5,244.9,8.4,175,2.17,1505.44
+1G1562E,BMW,i4 Gran Coupe,2023,BEV,Clean Alternative Fuel Vehicle Eligible,79.9,266,47794.0,8.3,159.0,5.6,192,3.33,179.68
+1G1328E,Volvo,XC60 Recharge,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,68.25,33,60957.0,2.1,206.6,5.0,173,0.48,1847.18
+1G1572E,Toyota,bZ4X,2022,BEV,Clean Alternative Fuel Vehicle Eligible,68.8,252,40806.0,6.6,182.5,7.7,158,3.66,161.93
+1G1111E,Volkswagen,ID.4,2024,BEV,Clean Alternative Fuel Vehicle Eligible,80.6,281,43542.0,8.1,187.0,6.5,160,3.49,154.95
+1G1722E,Toyota,RAV4 Prime,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,19.3,58,44444.0,1.6,182.3,5.9,153,3.01,766.28
+1G1218E,Hyundai,Ioniq 5,2024,BEV,Clean Alternative Fuel Vehicle Eligible,72.6,301,49481.0,5.8,179.7,4.8,180,4.15,164.39
+1G1258E,Kia,Niro EV,2023,BEV,Clean Alternative Fuel Vehicle Eligible,65.0,245,46696.0,6.4,178.3,7.8,174,3.77,190.6
+1G1839E,Volvo,XC60 Recharge,2023,PHEV,Not eligible due to low battery range,18.5,29,62325.0,1.7,205.9,4.8,191,1.57,2149.14
+1G1297E,Audi,e-tron GT,2024,BEV,Clean Alternative Fuel Vehicle Eligible,85.3,215,114162.0,7.0,205.9,4.1,253,2.52,530.99
+1G1729E,Hyundai,Ioniq 5,2023,BEV,Clean Alternative Fuel Vehicle Eligible,62.7,255,47794.0,5.8,173.1,5.1,178,4.07,187.43
+1G1455E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,64.4,262,28379.0,6.6,132.9,5.7,143,4.07,108.32
+1G1947E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,58.6,222,44816.0,5.8,162.5,5.5,177,3.79,201.87
+1G1771E,Toyota,Prius Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,12.8,41,36213.0,1.3,120.0,6.2,171,3.2,883.24
+1G1680E,Mercedes-Benz,EQE Sedan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,90.2,314,80220.0,9.4,189.0,6.4,228,3.48,255.48
+1G1763E,Tesla,Model S,2024,BEV,Clean Alternative Fuel Vehicle Eligible,94.1,368,83270.0,8.7,187.6,3.7,245,3.91,226.28
+1G1121E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,71.8,285,44062.0,5.8,169.6,5.0,226,3.97,154.6
+1G1710E,Toyota,Prius Prime,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,13.4,56,30169.0,1.2,132.0,7.0,181,4.18,538.73
+1G1825E,Volvo,XC60 Recharge,2025,PHEV,Not eligible due to low battery range,17.7,26,47794.0,1.8,190.5,4.2,180,1.47,1838.23
+1G1873E,Jeep,Wrangler 4xe,2025,PHEV,Not eligible due to low battery range,17.8,22,58032.0,1.6,260.8,5.7,167,1.24,2637.82
+1G1666E,Kia,Niro EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,66.8,253,47794.0,6.3,165.6,7.2,177,3.79,188.91
+1G1725E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,126.4,310,60523.0,12.9,288.3,4.3,176,2.45,195.24
+1G1857E,BMW,i4 Gran Coupe,2026,BEV,Clean Alternative Fuel Vehicle Eligible,67.7,236,58244.0,6.4,163.0,5.8,180,3.49,246.8
+1G1201E,Volvo,XC60 Recharge,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,19.6,36,62727.0,1.6,216.5,4.5,191,1.84,1742.42
+1G1745E,Audi,e-tron GT,2022,BEV,Clean Alternative Fuel Vehicle Eligible,89.7,235,108999.0,9.2,202.4,3.9,236,2.62,463.83
+1G1376E,Volvo,XC60 Recharge,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,19.2,44,56360.0,1.8,206.3,4.2,180,2.29,1280.91
+1G1372E,Mercedes-Benz,EQE Sedan,2021,BEV,Clean Alternative Fuel Vehicle Eligible,91.9,307,69002.0,8.5,178.6,6.4,226,3.34,224.76
+1G1242E,Hyundai,Ioniq 6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,72.9,343,42961.0,6.1,151.7,5.3,181,4.71,125.25
+1G1836E,Chrysler,Pacifica Hybrid,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,16.8,35,51230.0,1.4,246.3,8.0,178,2.08,1463.71
+1G1945E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.7,263,48772.0,7.1,150.3,5.2,191,3.83,185.44
+1G1735E,Jeep,Wrangler 4xe,2021,PHEV,Not eligible due to low battery range,17.9,15,57190.0,1.7,260.4,6.2,161,0.84,3812.67
+1G1167E,Audi,e-tron GT,2024,BEV,Clean Alternative Fuel Vehicle Eligible,87.8,220,94414.0,8.2,222.5,4.1,237,2.51,429.15
+1G1568E,Ford,Mustang Mach-E,2025,BEV,Clean Alternative Fuel Vehicle Eligible,77.8,274,44863.0,7.7,168.7,5.6,176,3.52,163.73
+1G1530E,Chrysler,Pacifica Hybrid,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,14.6,32,53778.0,1.3,241.9,8.0,178,2.19,1680.56
+1G1768E,Ford,Mustang Mach-E,2023,BEV,Clean Alternative Fuel Vehicle Eligible,79.9,271,43727.0,7.5,201.1,5.6,190,3.39,161.35
+1G1868E,Volvo,XC60 Recharge,2022,PHEV,Not eligible due to low battery range,18.4,24,67955.0,1.8,206.2,4.4,184,1.3,2831.46
+1G1192E,Ford,Mustang Mach-E,2024,BEV,Clean Alternative Fuel Vehicle Eligible,70.4,208,43295.0,7.3,180.7,5.3,174,2.95,208.15
+1G1803E,Chevrolet,Bolt EV,2023,BEV,Clean Alternative Fuel Vehicle Eligible,62.7,258,28881.0,6.2,156.9,6.0,143,4.11,111.94
+1G1496E,Volkswagen,ID.4,2023,BEV,Clean Alternative Fuel Vehicle Eligible,79.5,264,37434.0,8.0,176.0,7.4,142,3.32,141.8
+1G1701E,BMW,i4 Gran Coupe,2021,BEV,Clean Alternative Fuel Vehicle Eligible,76.3,265,52435.0,6.5,173.4,5.8,180,3.47,197.87
+1G1850E,Kia,Niro EV,2026,BEV,Clean Alternative Fuel Vehicle Eligible,66.0,264,46993.0,5.3,167.9,6.7,175,4.0,178.0
+1G1365E,Ford,Mustang Mach-E,2025,BEV,Clean Alternative Fuel Vehicle Eligible,71.2,219,47180.0,6.7,174.1,5.5,191,3.08,215.43
+1G1367E,Nissan,Ariya,2024,BEV,Clean Alternative Fuel Vehicle Eligible,86.3,286,43473.0,6.7,166.6,7.3,160,3.31,152.0
+1G1376E,Tesla,Model S,2023,BEV,Clean Alternative Fuel Vehicle Eligible,96.6,388,82323.0,7.6,198.4,3.3,248,4.02,212.17
+1G1271E,Porsche,Taycan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,85.1,214,96407.0,7.6,214.4,4.4,239,2.51,450.5
+1G1520E,Toyota,bZ4X,2025,BEV,Clean Alternative Fuel Vehicle Eligible,63.8,224,47538.0,6.1,167.3,6.7,160,3.51,212.22
+1G1491E,Mercedes-Benz,EQE Sedan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,90.9,280,86131.0,9.1,181.3,6.0,211,3.08,307.61
+1G1333E,Tesla,Model Y,2025,BEV,Clean Alternative Fuel Vehicle Eligible,70.8,266,47319.0,7.3,170.9,4.8,215,3.76,177.89
+1G1468E,Volvo,XC60 Recharge,2021,PHEV,Not eligible due to low battery range,16.1,25,56267.0,1.6,207.4,4.6,187,1.55,2250.68
+1G1208E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.9,252,28764.0,6.9,155.7,6.3,158,3.66,114.14
+1G1210E,Volvo,XC60 Recharge,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,17.1,40,47794.0,1.8,207.9,4.9,170,2.34,1194.85
+1G1263E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,70.1,285,44478.0,6.3,167.3,5.0,216,4.07,156.06
+1G1283E,Porsche,Taycan,2022,BEV,Clean Alternative Fuel Vehicle Eligible,93.3,251,98795.0,7.5,223.1,4.0,246,2.69,393.61
+1G1315E,Jeep,Wrangler 4xe,2023,PHEV,Not eligible due to low battery range,15.9,20,55672.0,1.5,259.2,6.6,144,1.26,2783.6
+1G1147E,Audi,e-tron GT,2023,BEV,Clean Alternative Fuel Vehicle Eligible,92.9,233,117872.0,9.6,219.1,3.8,256,2.51,505.89
+1G1825E,Ford,F-150 Lightning,2021,BEV,Clean Alternative Fuel Vehicle Eligible,96.0,246,50358.0,9.9,288.9,3.7,186,2.56,204.71
+1G1262E,BMW,i4 Gran Coupe,2025,BEV,Clean Alternative Fuel Vehicle Eligible,77.6,294,53593.0,7.7,167.1,5.9,203,3.79,182.29
+1G1646E,Volvo,XC60 Recharge,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,18.6,30,55056.0,1.9,209.7,4.6,183,1.61,1835.2
+1G1144E,Tesla,Model Y,2022,BEV,Clean Alternative Fuel Vehicle Eligible,66.9,261,49806.0,6.4,183.0,4.2,232,3.9,190.83
+1G1394E,Volvo,XC60 Recharge,2024,PHEV,Not eligible due to low battery range,18.8,25,63353.0,1.6,188.9,4.8,173,1.33,2534.12
+1G1632E,Tesla,Model S,2025,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,406,86801.0,10.5,191.4,2.4,240,5.95,213.8
+1G1511E,Volvo,XC60 Recharge,2023,PHEV,Not eligible due to low battery range,14.3,28,67439.0,1.2,207.1,4.9,176,1.96,2408.54
+1G1949E,Nissan,Ariya,2025,BEV,Clean Alternative Fuel Vehicle Eligible,83.9,307,48145.0,7.1,177.7,7.0,145,3.66,156.82
+1G1489E,Mercedes-Benz,EQE Sedan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,89.4,314,77301.0,9.0,186.7,6.2,211,3.51,246.18
+1G1790E,Hyundai,Ioniq 6,2026,BEV,Clean Alternative Fuel Vehicle Eligible,55.3,245,48006.0,5.7,124.2,5.5,175,4.43,195.94
+1G1200E,Hyundai,Ioniq 6,2022,BEV,Clean Alternative Fuel Vehicle Eligible,55.1,258,44069.0,5.6,138.9,5.4,180,4.68,170.81
+1G1652E,Tesla,Model 3,2023,BEV,Clean Alternative Fuel Vehicle Eligible,60.4,251,42577.0,5.3,160.0,3.6,217,4.16,169.63
+1G1558E,Tesla,Model S,2023,BEV,Clean Alternative Fuel Vehicle Eligible,93.9,363,94598.0,8.9,181.0,3.0,253,3.87,260.6
+1G1248E,Porsche,Taycan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,83.7,239,47794.0,6.1,232.7,3.9,256,2.86,199.97
+1G1201E,Ford,Mustang Mach-E,2023,BEV,Clean Alternative Fuel Vehicle Eligible,83.7,272,44990.0,7.0,188.0,5.8,174,3.25,165.4
+1G1957E,Mercedes-Benz,EQE Sedan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,89.3,314,76972.0,7.0,196.2,6.4,212,3.52,245.13
+1G1490E,Kia,EV6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,65.5,253,43599.0,5.4,156.8,5.2,174,3.86,172.33
+1G1406E,Chrysler,Pacifica Hybrid,2023,PHEV,Not eligible due to low battery range,16.9,19,59426.0,1.7,245.9,8.4,185,1.12,3127.68
+1G1325E,Ford,F-150 Lightning,2024,BEV,Clean Alternative Fuel Vehicle Eligible,123.1,310,55323.0,12.7,283.0,4.0,184,2.52,178.46
+1G1493E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,261,27127.0,6.1,156.2,6.3,147,3.82,103.93
+1G1258E,Chevrolet,Bolt EV,2023,BEV,Clean Alternative Fuel Vehicle Eligible,66.4,265,29664.0,6.1,172.4,6.1,142,3.99,111.94
+1G1657E,Ford,F-150 Lightning,2024,BEV,Clean Alternative Fuel Vehicle Eligible,120.8,304,49968.0,12.5,273.0,3.8,190,2.52,164.37
+1G1592E,Hyundai,Ioniq 6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,76.1,373,44321.0,6.9,153.9,4.6,186,4.9,118.82
+1G1795E,BMW,i4 Gran Coupe,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.5,247,61350.0,6.2,167.9,5.1,183,3.61,248.38
+1G1453E,BMW,iX xDrive50,2023,BEV,Clean Alternative Fuel Vehicle Eligible,106.8,295,89434.0,10.9,215.5,4.6,195,2.76,303.17
+1G1699E,Toyota,RAV4 Prime,2026,PHEV,Not eligible due to low battery range,18.0,26,44898.0,1.5,193.9,6.0,189,1.44,1726.85
+1G1555E,BMW,330e,2025,PHEV,Not eligible due to low battery range,12.9,22,50758.0,1.3,188.0,5.2,221,1.71,2307.18
+1G1598E,Toyota,Prius Prime,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,13.6,38,29089.0,1.4,127.4,6.7,167,2.79,765.5
+1G1373E,Tesla,Model 3,2021,BEV,Clean Alternative Fuel Vehicle Eligible,68.8,265,41631.0,6.0,161.0,4.3,229,3.85,157.1
+1G1989E,Chevrolet,Bolt EV,2023,BEV,Clean Alternative Fuel Vehicle Eligible,67.1,252,27137.0,5.3,144.7,6.3,150,3.76,107.69
+1G1402E,Tesla,Model 3,2022,BEV,Clean Alternative Fuel Vehicle Eligible,70.4,314,43845.0,6.1,151.9,5.1,232,4.46,139.63
+1G1246E,Audi,e-tron GT,2026,BEV,Clean Alternative Fuel Vehicle Eligible,94.5,235,108225.0,7.8,219.1,2.7,234,2.49,460.53
+1G1635E,Toyota,Prius Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,13.6,52,39225.0,1.3,130.2,6.5,187,3.82,754.33
+1G1749E,Mercedes-Benz,EQE Sedan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,318,73867.0,7.2,196.9,5.6,189,4.66,232.29
+1G1801E,Ford,Mustang Mach-E,2022,BEV,Clean Alternative Fuel Vehicle Eligible,74.8,229,47187.0,6.4,182.5,5.6,189,3.06,206.06
+1G1301E,Hyundai,Ioniq 6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,72.2,323,49863.0,6.7,137.0,4.5,186,4.47,154.37
+1G1828E,Tesla,Model Y,2025,BEV,Clean Alternative Fuel Vehicle Eligible,73.2,255,55639.0,6.7,168.2,4.5,219,3.48,218.19
+1G1737E,Volvo,XC60 Recharge,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,19.6,47,57614.0,1.9,207.3,5.1,183,2.4,1225.83
+1G1208E,Toyota,RAV4 Prime,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,17.5,35,38966.0,6.1,183.1,5.9,176,2.0,1113.31
+1G1773E,Audi,e-tron GT,2024,BEV,Clean Alternative Fuel Vehicle Eligible,88.9,185,115666.0,8.4,217.6,3.8,242,2.08,625.22
+1G1582E,Audi,e-tron GT,2022,BEV,Clean Alternative Fuel Vehicle Eligible,90.9,247,121999.0,9.0,212.6,3.9,247,2.72,493.92
+1G1550E,Volvo,XC60 Recharge,2023,PHEV,Not eligible due to low battery range,17.1,19,60844.0,1.6,198.5,4.8,186,1.11,3202.32
+1G1668E,BMW,330e,2025,PHEV,Not eligible due to low battery range,12.1,15,44899.0,1.2,207.5,5.2,217,1.24,2993.27
+1G1490E,Nissan,Ariya,2024,BEV,Clean Alternative Fuel Vehicle Eligible,67.9,219,49866.0,6.7,179.6,6.8,159,3.23,227.7
+1G1181E,Toyota,bZ4X,2022,BEV,Clean Alternative Fuel Vehicle Eligible,70.4,264,41908.0,6.5,183.9,7.4,160,3.75,158.74
+1G1121E,Jeep,Wrangler 4xe,2023,PHEV,Not eligible due to low battery range,15.1,15,55534.0,1.4,250.8,5.5,151,0.99,3702.27
+1G1233E,BMW,i4 Gran Coupe,2024,BEV,Clean Alternative Fuel Vehicle Eligible,71.7,249,50900.0,6.9,185.5,5.5,196,3.47,204.42
+1G1414E,Toyota,bZ4X,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.3,262,38863.0,6.4,178.7,7.6,151,3.84,148.33
+1G1236E,Porsche,Taycan,2026,BEV,Clean Alternative Fuel Vehicle Eligible,80.2,226,92039.0,8.2,206.2,4.0,260,2.82,407.25
+1G1789E,Hyundai,Ioniq 5,2026,BEV,Clean Alternative Fuel Vehicle Eligible,63.4,265,43539.0,6.2,167.7,5.3,201,4.18,164.3
+1G1311E,Tesla,Model S,2025,BEV,Clean Alternative Fuel Vehicle Eligible,95.9,391,88967.0,9.2,187.6,3.6,237,4.08,227.54
+1G1430E,Chevrolet,Bolt EV,2021,BEV,Clean Alternative Fuel Vehicle Eligible,65.5,267,25000.0,6.1,177.1,6.2,147,4.08,93.63
+1G1849E,Toyota,Prius Prime,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,14.2,51,27525.0,1.4,149.2,6.7,185,3.59,539.71
+1G1667E,Ford,Mustang Mach-E,2021,BEV,Clean Alternative Fuel Vehicle Eligible,78.0,257,35890.0,7.4,193.1,5.4,177,3.29,139.65
+1G1162E,Chrysler,Pacifica Hybrid,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,17.6,40,65502.0,1.6,243.8,7.8,166,2.27,1637.55
+1G1220E,Porsche,Taycan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,88.3,216,88669.0,6.9,229.8,3.1,241,2.45,410.5
+1G1239E,Tesla,Model 3,2026,BEV,Clean Alternative Fuel Vehicle Eligible,61.7,256,49517.0,4.8,173.6,4.4,223,4.15,193.43
+1G1721E,Mercedes-Benz,EQE Sedan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,90.2,305,77963.0,8.9,196.2,6.2,205,3.38,255.62
+1G1175E,Volkswagen,ID.4,2023,BEV,Clean Alternative Fuel Vehicle Eligible,66.3,209,38718.0,6.7,189.5,7.7,160,3.15,185.25
+1G1696E,Audi,e-tron GT,2023,BEV,Clean Alternative Fuel Vehicle Eligible,84.4,202,101165.0,8.2,187.4,4.4,241,2.39,500.82
+1G1214E,Tesla,Model Y,2024,BEV,Clean Alternative Fuel Vehicle Eligible,77.1,266,46605.0,6.2,177.7,4.2,219,3.45,175.21
+1G1462E,Hyundai,Ioniq 5,2022,BEV,Clean Alternative Fuel Vehicle Eligible,60.8,231,38793.0,5.6,180.0,4.8,178,3.8,167.94
+1G1192E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,115.0,285,52379.0,11.6,253.6,4.3,180,2.48,183.79
+1G1550E,Toyota,Prius Prime,2026,PHEV,Clean Alternative Fuel Vehicle Eligible,14.7,47,38067.0,1.4,124.8,6.6,180,3.2,809.94
+1G1893E,Kia,Niro EV,2025,BEV,Clean Alternative Fuel Vehicle Eligible,65.6,272,44526.0,5.5,171.4,7.4,165,4.15,163.7
+1G1817E,Toyota,Prius Prime,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,15.5,51,32085.0,1.5,120.0,6.7,178,3.29,629.12
+1G1434E,Volvo,XC60 Recharge,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,18.3,33,69641.0,1.8,191.6,4.1,179,1.8,2110.33
+1G1158E,Jeep,Wrangler 4xe,2024,PHEV,Not eligible due to low battery range,19.1,18,48888.0,1.7,253.6,6.2,150,0.94,2716.0
+1G1416E,Audi,e-tron GT,2023,BEV,Clean Alternative Fuel Vehicle Eligible,89.7,243,113250.0,8.9,213.0,3.5,244,2.71,466.05
+1G1584E,Mercedes-Benz,EQE Sedan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,91.3,324,81521.0,7.4,190.8,6.5,221,3.55,251.61
+1G1675E,Volvo,XC60 Recharge,2024,PHEV,Not eligible due to low battery range,68.25,27,61673.0,1.7,207.0,4.7,182,0.4,2284.19
+1G1336E,Hyundai,Ioniq 5,2025,BEV,Clean Alternative Fuel Vehicle Eligible,67.3,276,50546.0,5.5,181.7,4.9,170,4.1,183.14
+1G1835E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,77.0,288,50053.0,7.3,183.6,4.6,213,3.74,173.8
+1G1880E,Toyota,RAV4 Prime,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,18.2,41,39698.0,1.8,171.8,6.1,175,2.25,968.24
+1G1260E,Hyundai,Ioniq 5,2025,BEV,Clean Alternative Fuel Vehicle Eligible,60.1,241,46261.0,5.9,174.7,5.1,190,4.01,191.95
+1G1843E,Ford,Mustang Mach-E,2021,BEV,Clean Alternative Fuel Vehicle Eligible,76.0,223,42127.0,7.7,191.8,5.2,177,2.93,188.91
+1G1557E,Kia,Niro EV,2026,BEV,Clean Alternative Fuel Vehicle Eligible,64.1,258,42159.0,6.4,173.6,7.1,160,4.02,163.41
+1G1902E,Tesla,Model S,2026,BEV,Clean Alternative Fuel Vehicle Eligible,96.1,383,98060.0,9.1,166.9,2.9,255,3.99,256.03
+1G1636E,Porsche,Taycan,2021,BEV,Clean Alternative Fuel Vehicle Eligible,92.1,250,97491.0,8.6,229.7,4.7,252,2.71,389.96
+1G1794E,Hyundai,Ioniq 5,2026,BEV,Clean Alternative Fuel Vehicle Eligible,75.3,288,41804.0,7.7,175.0,4.9,186,3.82,145.15
+1G1288E,Hyundai,Ioniq 6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,263,44488.0,6.6,143.1,5.5,190,3.85,169.16
+1G1938E,BMW,330e,2023,PHEV,Not eligible due to low battery range,11.2,23,46738.0,1.2,196.0,5.6,224,2.05,2032.09
+1G1158E,Hyundai,Ioniq 5,2023,BEV,Clean Alternative Fuel Vehicle Eligible,62.1,236,44816.0,4.8,169.7,5.1,181,3.8,189.9
+1G1933E,BMW,i4 Gran Coupe,2023,BEV,Clean Alternative Fuel Vehicle Eligible,75.0,272,55231.0,7.5,167.1,5.5,197,3.63,203.06
+1G1538E,Hyundai,Ioniq 5,2021,BEV,Clean Alternative Fuel Vehicle Eligible,72.7,274,39038.0,6.8,169.6,5.2,184,3.77,142.47
+1G1278E,Toyota,Prius Prime,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,14.3,46,32128.0,1.2,137.5,7.1,181,3.22,698.43
+1G1909E,Jeep,Wrangler 4xe,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,19.7,41,53150.0,1.9,239.8,5.7,149,2.08,1296.34
+1G1907E,Volvo,XC60 Recharge,2024,PHEV,Not eligible due to low battery range,17.0,28,57157.0,1.8,217.3,4.5,159,1.65,2041.32
+1G1736E,Ford,Mustang Mach-E,2023,BEV,Clean Alternative Fuel Vehicle Eligible,74.9,251,40708.0,6.5,181.2,5.0,175,3.35,162.18
+1G1195E,Chevrolet,Bolt EV,2021,BEV,Clean Alternative Fuel Vehicle Eligible,64.4,260,28238.0,6.0,140.8,6.4,148,4.04,108.61
+1G1280E,Hyundai,Ioniq 6,2023,BEV,Clean Alternative Fuel Vehicle Eligible,70.4,314,43153.0,6.8,142.6,5.5,186,4.46,137.43
+1G1300E,Mercedes-Benz,EQE Sedan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,91.5,283,77142.0,8.2,190.2,5.8,207,3.09,272.59
+1G1976E,BMW,iX xDrive50,2023,BEV,Clean Alternative Fuel Vehicle Eligible,111.9,303,47794.0,6.1,225.6,4.3,197,2.71,157.74
+1G1219E,Toyota,RAV4 Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,18.2,62,46123.0,1.5,171.2,6.1,187,3.41,743.92
+1G1305E,Chrysler,Pacifica Hybrid,2023,PHEV,Not eligible due to low battery range,16.7,28,53751.0,1.4,240.7,7.7,173,1.68,1919.68
+1G1482E,Tesla,Model S,2026,BEV,Clean Alternative Fuel Vehicle Eligible,101.3,399,77204.0,9.3,186.4,3.4,236,3.94,193.49
+1G1157E,Porsche,Taycan,2025,BEV,Clean Alternative Fuel Vehicle Eligible,87.2,231,84905.0,7.2,223.9,3.8,236,2.65,367.55
+1G1371E,Ford,Mustang Mach-E,2026,BEV,Clean Alternative Fuel Vehicle Eligible,69.4,213,48805.0,6.8,162.6,5.2,163,3.07,229.13
+1G1300E,Audi,e-tron GT,2023,BEV,Clean Alternative Fuel Vehicle Eligible,87.3,239,104419.0,8.2,216.4,4.0,227,2.74,436.9
+1G1882E,Jeep,Wrangler 4xe,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,14.2,38,47794.0,1.2,259.5,6.1,156,2.68,1257.74
+1G1782E,BMW,iX xDrive50,2024,BEV,Clean Alternative Fuel Vehicle Eligible,103.4,293,86599.0,10.1,205.5,4.2,210,2.83,295.56
+1G1811E,Toyota,RAV4 Prime,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,18.4,45,42749.0,1.6,191.2,5.9,173,2.45,949.98
+1G1649E,Ford,F-150 Lightning,2023,BEV,Clean Alternative Fuel Vehicle Eligible,110.3,254,61517.0,9.4,269.0,4.7,184,2.3,242.19
+1G1799E,Audi,e-tron GT,2024,BEV,Clean Alternative Fuel Vehicle Eligible,89.8,225,104127.0,7.8,219.7,3.2,260,2.51,462.79
+1G1466E,Nissan,Ariya,2025,BEV,Clean Alternative Fuel Vehicle Eligible,69.0,216,46856.0,5.6,164.1,7.3,158,3.13,216.93
+1G1294E,Toyota,Prius Prime,2024,PHEV,Not eligible due to low battery range,12.6,16,35434.0,1.2,127.0,6.9,175,1.27,2214.62
+1G1787E,Toyota,Prius Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,13.0,48,37831.0,1.2,147.7,6.8,174,3.69,788.15
+1G1983E,Audi,e-tron GT,2022,BEV,Clean Alternative Fuel Vehicle Eligible,88.4,226,115178.0,8.0,210.8,4.0,248,2.56,509.64
+1G1463E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,77.1,301,48926.0,6.1,156.0,5.8,175,3.9,162.54
+1G1792E,Toyota,bZ4X,2021,BEV,Clean Alternative Fuel Vehicle Eligible,70.9,252,45478.0,5.7,188.1,6.8,154,3.55,180.47
+1G1207E,Audi,e-tron GT,2023,BEV,Clean Alternative Fuel Vehicle Eligible,82.7,216,109324.0,8.3,223.9,4.0,257,2.61,506.13
+1G1642E,BMW,iX xDrive50,2025,BEV,Clean Alternative Fuel Vehicle Eligible,110.7,323,87496.0,9.0,203.0,4.1,206,2.92,270.89
+1G1307E,Jeep,Wrangler 4xe,2021,PHEV,Not eligible due to low battery range,15.7,22,56320.0,1.6,257.5,6.1,161,1.4,2560.0
+1G1171E,Ford,Mustang Mach-E,2022,BEV,Clean Alternative Fuel Vehicle Eligible,69.3,223,41484.0,5.7,186.3,5.7,186,3.22,186.03
+1G1631E,Toyota,bZ4X,2025,BEV,Clean Alternative Fuel Vehicle Eligible,63.7,220,46239.0,5.7,174.9,7.7,160,3.45,210.18
+1G1590E,Kia,EV6,2022,BEV,Clean Alternative Fuel Vehicle Eligible,70.8,288,41432.0,6.7,162.4,5.3,183,4.07,143.86
+1G1462E,Toyota,bZ4X,2024,BEV,Clean Alternative Fuel Vehicle Eligible,65.1,205,48294.0,5.7,184.3,7.4,169,3.15,235.58
+1G1831E,BMW,330e,2022,PHEV,Not eligible due to low battery range,14.6,17,42904.0,1.2,183.0,5.7,226,1.16,2523.76
+1G1897E,Toyota,Prius Prime,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,11.3,40,35691.0,1.2,137.3,6.6,185,3.54,892.28
+1G1717E,Volkswagen,ID.4,2023,BEV,Clean Alternative Fuel Vehicle Eligible,62.1,224,43157.0,6.1,177.5,7.3,157,3.61,192.67
+1G1195E,BMW,330e,2022,PHEV,Not eligible due to low battery range,12.7,20,46113.0,1.2,207.5,5.5,231,1.57,2305.65
+1G1862E,Hyundai,Ioniq 5,2023,BEV,Clean Alternative Fuel Vehicle Eligible,63.2,243,41907.0,6.0,164.9,5.6,177,3.84,172.46
+1G1129E,Volkswagen,ID.4,2021,BEV,Clean Alternative Fuel Vehicle Eligible,76.0,267,39183.0,7.0,167.8,6.9,151,3.51,146.75
+1G1198E,Tesla,Model Y,2022,BEV,Clean Alternative Fuel Vehicle Eligible,69.4,262,47254.0,5.7,182.5,4.5,230,3.78,180.36
+1G1957E,BMW,i4 Gran Coupe,2021,BEV,Clean Alternative Fuel Vehicle Eligible,81.7,288,50417.0,6.4,145.9,5.8,200,3.53,175.06
+1G1382E,Toyota,Prius Prime,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,13.5,43,26669.0,1.2,135.4,7.1,183,3.19,620.21
+1G1475E,Toyota,bZ4X,2023,BEV,Clean Alternative Fuel Vehicle Eligible,71.9,228,42867.0,6.0,184.3,7.3,163,3.17,188.01
+1G1327E,Hyundai,Ioniq 5,2025,BEV,Clean Alternative Fuel Vehicle Eligible,75.9,286,47895.0,6.6,138.9,5.0,182,3.77,167.47
+1G1323E,Toyota,bZ4X,2024,BEV,Clean Alternative Fuel Vehicle Eligible,66.7,239,42362.0,5.8,175.4,7.7,154,3.58,177.25
+1G1649E,Toyota,Prius Prime,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,10.9,46,47794.0,1.2,122.4,6.9,171,4.22,1039.0
+1G1589E,Kia,EV6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,73.6,281,47794.0,5.9,174.5,5.9,161,3.82,170.09
+1G1243E,Tesla,Model S,2024,BEV,Clean Alternative Fuel Vehicle Eligible,98.9,378,78463.0,9.2,166.6,3.7,243,3.82,207.57
+1G1891E,Toyota,Prius Prime,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,15.0,55,36153.0,1.3,141.6,6.7,174,3.67,657.33
+1G1129E,Hyundai,Ioniq 5,2022,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,244,44493.0,5.6,184.2,5.7,192,3.58,182.35
+1G1819E,Jeep,Wrangler 4xe,2023,PHEV,Not eligible due to low battery range,18.4,15,58607.0,1.5,251.9,5.5,165,0.82,3907.13
+1G1837E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,64.6,232,29440.0,5.1,156.8,6.7,149,3.59,126.9
+1G1623E,Toyota,Prius Prime,2021,PHEV,Not eligible due to low battery range,15.8,24,47794.0,1.2,137.2,6.3,180,1.52,1991.42
+1G1553E,Hyundai,Ioniq 6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,65.6,305,45567.0,5.8,149.3,4.8,183,4.65,149.4
+1G1499E,Hyundai,Ioniq 5,2026,BEV,Clean Alternative Fuel Vehicle Eligible,69.7,283,47540.0,6.8,152.6,5.5,189,4.06,167.99
+1G1899E,Hyundai,Ioniq 6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.1,318,41824.0,5.9,149.7,5.5,200,4.67,131.52
+1G1964E,Toyota,bZ4X,2021,BEV,Clean Alternative Fuel Vehicle Eligible,70.4,256,40075.0,5.7,188.8,7.2,165,3.64,156.54
+1G1889E,Chrysler,Pacifica Hybrid,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,17.8,37,53724.0,1.6,231.4,8.0,170,2.08,1452.0
+1G1710E,Tesla,Model Y,2024,BEV,Clean Alternative Fuel Vehicle Eligible,67.7,250,47989.0,6.8,186.2,4.7,197,3.69,191.96
+1G1230E,Jeep,Wrangler 4xe,2024,PHEV,Not eligible due to low battery range,15.5,15,64435.0,1.3,248.5,5.7,169,0.97,4295.67
+1G1575E,Tesla,Model S,2024,BEV,Clean Alternative Fuel Vehicle Eligible,93.2,383,85197.0,9.2,191.8,3.6,258,4.11,222.45
+1G1236E,Jeep,Wrangler 4xe,2023,PHEV,Not eligible due to low battery range,16.2,15,61321.0,1.4,250.2,6.9,151,0.93,4088.07
+1G1983E,Jeep,Wrangler 4xe,2024,PHEV,Not eligible due to low battery range,17.3,27,58763.0,1.5,242.4,5.9,161,1.56,2176.41
+1G1819E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,61.0,249,42616.0,5.9,172.5,5.6,190,4.08,171.15
+1G1314E,Chevrolet,Bolt EV,2025,BEV,Clean Alternative Fuel Vehicle Eligible,66.8,252,34236.0,6.9,137.4,6.3,140,3.77,135.86
+1G1372E,Chevrolet,Bolt EV,2022,BEV,Clean Alternative Fuel Vehicle Eligible,64.9,262,27100.0,6.2,147.5,6.3,150,4.04,103.44
+1G1343E,Tesla,Model S,2023,BEV,Clean Alternative Fuel Vehicle Eligible,95.4,383,84749.0,8.5,200.8,3.4,241,4.01,221.28
+1G1919E,Kia,EV6,2023,BEV,Clean Alternative Fuel Vehicle Eligible,65.1,265,42028.0,5.2,173.8,5.0,171,4.07,158.6
+1G1391E,Tesla,Model 3,2022,BEV,Clean Alternative Fuel Vehicle Eligible,65.1,260,49274.0,5.6,162.1,4.6,233,3.99,189.52
+1G1138E,BMW,330e,2024,PHEV,Not eligible due to low battery range,10.4,23,51114.0,1.2,208.7,5.7,217,2.21,2222.35
+1G1541E,Ford,F-150 Lightning,2025,BEV,Clean Alternative Fuel Vehicle Eligible,104.1,249,60762.0,8.4,282.0,4.3,179,2.39,244.02
+1G1345E,Audi,e-tron GT,2023,BEV,Clean Alternative Fuel Vehicle Eligible,89.6,233,86465.0,7.8,220.3,3.6,255,2.6,371.09
+1G1285E,Chrysler,Pacifica Hybrid,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,13.1,36,48588.0,1.3,238.2,7.8,159,2.75,1349.67
+1G1184E,Tesla,Model 3,2025,BEV,Clean Alternative Fuel Vehicle Eligible,58.9,240,45687.0,5.3,159.4,3.6,230,4.07,190.36
+1G1542E,Audi,e-tron GT,2022,BEV,Clean Alternative Fuel Vehicle Eligible,91.7,219,106372.0,7.8,220.0,3.8,249,2.39,485.72
+1G1166E,Volkswagen,ID.4,2024,BEV,Clean Alternative Fuel Vehicle Eligible,70.1,227,43131.0,7.2,185.3,6.8,157,3.24,190.0
+1G1433E,Ford,Mustang Mach-E,2023,BEV,Clean Alternative Fuel Vehicle Eligible,73.7,234,44366.0,6.1,187.0,5.1,180,3.18,189.6
+1G1811E,Chevrolet,Bolt EV,2022,BEV,Clean Alternative Fuel Vehicle Eligible,65.9,268,27625.0,6.2,140.4,6.8,145,4.07,103.08
+1G1418E,Mercedes-Benz,EQE Sedan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,91.8,322,82724.0,8.8,187.4,6.5,205,3.51,256.91
+1G1586E,Volvo,XC60 Recharge,2023,PHEV,Not eligible due to low battery range,21.5,27,57471.0,2.2,205.5,4.5,183,1.26,2128.56
+1G1213E,Chevrolet,Bolt EV,2022,BEV,Clean Alternative Fuel Vehicle Eligible,65.7,255,28625.0,5.2,168.2,7.2,149,3.88,112.25
+1G1601E,Toyota,bZ4X,2023,BEV,Clean Alternative Fuel Vehicle Eligible,69.7,246,41514.0,5.7,183.2,7.0,159,3.53,168.76
+1G1691E,Volvo,XC60 Recharge,2023,PHEV,Not eligible due to low battery range,68.25,18,61113.0,1.9,197.0,4.7,183,0.26,3395.17
+1G1257E,Kia,EV6,2023,BEV,Clean Alternative Fuel Vehicle Eligible,66.6,286,41817.0,5.9,170.0,4.8,201,4.29,146.21
+1G1781E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,64.8,243,34510.0,5.1,166.8,7.1,143,3.75,142.02
+1G1442E,Kia,Niro EV,2025,BEV,Clean Alternative Fuel Vehicle Eligible,66.1,245,47560.0,6.0,168.9,7.2,178,3.71,194.12
+1G1454E,Jeep,Wrangler 4xe,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,17.8,52,47794.0,1.5,266.4,6.0,160,2.92,919.12
+1G1837E,Tesla,Model 3,2021,BEV,Clean Alternative Fuel Vehicle Eligible,65.2,283,44020.0,6.6,162.3,4.2,233,4.34,155.55
+1G1444E,Volvo,XC60 Recharge,2025,PHEV,Not eligible due to low battery range,17.3,21,57126.0,1.5,210.2,4.3,175,1.21,2720.29
+1G1114E,Chevrolet,Bolt EV,2024,BEV,Clean Alternative Fuel Vehicle Eligible,63.9,257,26623.0,6.1,152.8,6.5,137,4.02,103.59
+1G1429E,Hyundai,Ioniq 5,2024,BEV,Clean Alternative Fuel Vehicle Eligible,70.8,289,50218.0,7.4,172.8,5.4,186,4.08,173.76
+1G1172E,Ford,F-150 Lightning,2025,BEV,Clean Alternative Fuel Vehicle Eligible,100.1,241,54974.0,8.4,300.5,3.8,180,2.41,228.11
+1G1592E,Jeep,Wrangler 4xe,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,17.6,30,50359.0,1.4,255.6,5.5,152,1.7,1678.63
+1G1825E,Tesla,Model Y,2026,BEV,Clean Alternative Fuel Vehicle Eligible,71.1,275,48981.0,6.7,165.5,4.7,208,3.87,178.11
+1G1711E,Volvo,XC60 Recharge,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,19.5,41,57391.0,1.9,199.5,4.9,183,2.1,1399.78
+1G1621E,Kia,Niro EV,2021,BEV,Clean Alternative Fuel Vehicle Eligible,64.4,256,37261.0,6.5,169.8,8.0,167,3.98,145.55
+1G1174E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,78.6,292,44823.0,6.2,164.0,5.1,208,3.72,153.5
+1G1768E,Kia,EV6,2021,BEV,Clean Alternative Fuel Vehicle Eligible,67.0,261,40062.0,7.0,178.3,5.4,189,3.9,153.49
+1G1652E,Ford,Mustang Mach-E,2024,BEV,Clean Alternative Fuel Vehicle Eligible,75.2,240,45651.0,6.6,196.9,5.2,179,3.19,190.21
+1G1416E,BMW,i4 Gran Coupe,2024,BEV,Clean Alternative Fuel Vehicle Eligible,79.6,263,53640.0,7.7,157.3,4.8,170,3.3,203.95
+1G1690E,Toyota,RAV4 Prime,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,15.8,47,42853.0,1.3,189.1,5.6,176,2.97,911.77
+1G1803E,Tesla,Model S,2024,BEV,Clean Alternative Fuel Vehicle Eligible,99.2,403,78650.0,7.8,183.6,3.1,239,4.06,195.16
+1G1584E,Kia,EV6,2021,BEV,Clean Alternative Fuel Vehicle Eligible,61.8,230,41703.0,6.2,147.7,5.6,178,3.72,181.32
+1G1547E,Toyota,Prius Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,13.0,33,39106.0,1.2,143.6,6.9,176,2.54,1185.03
+1G1256E,Toyota,Prius Prime,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,15.3,48,33883.0,1.5,120.0,6.3,180,3.14,705.9
+1G1260E,Kia,EV6,2024,BEV,Clean Alternative Fuel Vehicle Eligible,73.6,303,41470.0,6.1,171.2,5.6,184,4.12,136.86
+1G1178E,Volkswagen,ID.4,2022,BEV,Clean Alternative Fuel Vehicle Eligible,62.6,204,37209.0,5.7,194.0,7.7,155,3.26,182.4
+1G1151E,BMW,330e,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,11.7,40,48463.0,1.2,197.5,5.7,216,3.42,1211.58
+1G1530E,BMW,330e,2021,PHEV,Not eligible due to low battery range,9.9,15,41812.0,1.2,184.4,6.0,223,1.52,2787.47
+1G1709E,Kia,Niro EV,2022,BEV,Clean Alternative Fuel Vehicle Eligible,63.8,229,42514.0,5.5,161.8,7.0,174,3.59,185.65
+1G1668E,Tesla,Model 3,2026,BEV,Clean Alternative Fuel Vehicle Eligible,57.0,222,43706.0,5.4,156.2,4.0,227,3.89,196.87
+1G1711E,BMW,iX xDrive50,2021,BEV,Clean Alternative Fuel Vehicle Eligible,112.5,307,84624.0,9.0,195.2,4.2,199,2.73,275.65
+1G1180E,Volkswagen,ID.4,2024,BEV,Clean Alternative Fuel Vehicle Eligible,62.4,239,40343.0,5.2,191.4,7.9,166,3.83,168.8
+1G1634E,Hyundai,Ioniq 6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,71.6,322,45272.0,5.9,136.7,4.8,190,4.5,140.6
+1G1730E,Chevrolet,Bolt EV,2026,BEV,Clean Alternative Fuel Vehicle Eligible,64.4,255,31425.0,6.7,156.0,6.1,152,3.96,123.24
+1G1835E,Toyota,Prius Prime,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,11.8,44,39008.0,1.2,133.0,6.8,175,3.73,886.55
+1G1815E,Kia,EV6,2023,BEV,Clean Alternative Fuel Vehicle Eligible,62.7,255,40500.0,5.4,165.9,5.1,179,4.07,158.82
+1G1112E,Mercedes-Benz,EQE Sedan,2024,BEV,Clean Alternative Fuel Vehicle Eligible,91.8,320,76523.0,8.4,167.0,5.7,205,3.49,239.13
+1G1443E,Toyota,bZ4X,2022,BEV,Clean Alternative Fuel Vehicle Eligible,66.9,227,43514.0,5.5,173.0,7.7,158,3.39,191.69
+1G1917E,Ford,Mustang Mach-E,2022,BEV,Clean Alternative Fuel Vehicle Eligible,82.3,257,38058.0,6.6,179.6,5.1,188,3.12,148.09
+1G1656E,Toyota,Prius Prime,2024,PHEV,Not eligible due to low battery range,13.1,23,33651.0,1.2,138.7,6.5,184,1.76,1463.09
+1G1346E,BMW,330e,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,16.0,31,42663.0,1.3,194.9,5.6,214,1.94,1376.23
+1G1795E,Volvo,XC60 Recharge,2021,PHEV,Clean Alternative Fuel Vehicle Eligible,17.2,42,61834.0,1.5,186.9,4.6,183,2.44,1472.24
+1G1929E,Tesla,Model S,2023,BEV,Clean Alternative Fuel Vehicle Eligible,101.0,402,87285.0,10.1,192.8,3.3,254,3.98,217.13
+1G1910E,Tesla,Model 3,2021,BEV,Clean Alternative Fuel Vehicle Eligible,63.7,286,38306.0,6.2,148.6,4.7,228,4.49,133.94
+1G1880E,Nissan,Ariya,2023,BEV,Clean Alternative Fuel Vehicle Eligible,78.7,256,44087.0,7.2,187.5,7.4,159,3.25,172.21
+1G1998E,Nissan,Ariya,2023,BEV,Clean Alternative Fuel Vehicle Eligible,73.3,236,47708.0,7.1,166.2,7.4,161,3.22,202.15
+1G1833E,Audi,e-tron GT,2024,BEV,Clean Alternative Fuel Vehicle Eligible,91.3,237,119545.0,9.1,211.5,3.4,238,2.6,504.41
+1G1634E,Chrysler,Pacifica Hybrid,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,15.4,41,54393.0,1.3,237.2,7.9,159,2.66,1326.66
+1G1646E,Chrysler,Pacifica Hybrid,2024,PHEV,Not eligible due to low battery range,15.1,22,47794.0,1.4,251.2,7.7,171,1.46,2172.45
+1G1615E,Audi,e-tron GT,2026,BEV,Clean Alternative Fuel Vehicle Eligible,90.8,240,106117.0,8.4,218.1,4.0,229,2.64,442.15
+1G1406E,Volkswagen,ID.4,2022,BEV,Clean Alternative Fuel Vehicle Eligible,70.1,236,40109.0,5.8,180.1,7.4,171,3.37,169.95
+1G1576E,BMW,i4 Gran Coupe,2024,BEV,Clean Alternative Fuel Vehicle Eligible,81.5,278,55614.0,6.7,170.5,4.8,185,3.41,200.05
+1G1345E,Volkswagen,ID.4,2023,BEV,Clean Alternative Fuel Vehicle Eligible,72.6,237,34036.0,7.1,154.3,7.6,160,3.26,143.61
+1G1138E,BMW,iX xDrive50,2023,BEV,Clean Alternative Fuel Vehicle Eligible,109.6,303,96531.0,9.3,199.8,4.2,195,2.76,318.58
+1G1890E,Mercedes-Benz,EQE Sedan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,90.2,323,80401.0,8.1,191.6,6.0,209,3.58,248.92
+1G1695E,Tesla,Model Y,2023,BEV,Clean Alternative Fuel Vehicle Eligible,71.1,256,51773.0,6.3,167.8,4.8,214,3.6,202.24
+1G1293E,Tesla,Model S,2025,BEV,Clean Alternative Fuel Vehicle Eligible,94.8,399,94667.0,9.9,180.0,3.2,238,4.21,237.26
+1G1239E,Hyundai,Ioniq 5,2024,BEV,Clean Alternative Fuel Vehicle Eligible,65.3,256,40107.0,5.3,161.5,5.5,178,3.92,156.67
+1G1997E,Mercedes-Benz,EQE Sedan,2023,BEV,Clean Alternative Fuel Vehicle Eligible,90.9,290,69726.0,8.9,180.5,6.0,210,3.19,240.43
+1G1558E,BMW,i4 Gran Coupe,2024,BEV,Clean Alternative Fuel Vehicle Eligible,76.2,282,52868.0,7.0,160.4,5.8,193,3.7,187.48
+1G1839E,Volkswagen,ID.4,2024,BEV,Clean Alternative Fuel Vehicle Eligible,68.7,224,47794.0,6.5,158.9,7.2,153,3.26,213.37
+1G1560E,Chrysler,Pacifica Hybrid,2023,PHEV,Clean Alternative Fuel Vehicle Eligible,16.5,34,52148.0,1.7,236.3,7.8,157,2.06,1533.76
+1G1581E,Audi,e-tron GT,2026,BEV,Clean Alternative Fuel Vehicle Eligible,86.3,231,89520.0,7.0,228.5,3.9,256,2.68,387.53
+1G1200E,Nissan,Ariya,2022,BEV,Clean Alternative Fuel Vehicle Eligible,68.25,247,42640.0,7.1,165.5,6.9,164,3.62,172.63
+1G1709E,Volvo,XC60 Recharge,2022,PHEV,Clean Alternative Fuel Vehicle Eligible,18.6,35,50950.0,1.9,218.5,4.2,187,1.88,1455.71
+1G1354E,Hyundai,Ioniq 5,2024,BEV,Clean Alternative Fuel Vehicle Eligible,71.1,286,50741.0,6.4,174.4,5.3,172,4.02,177.42
+1G1545E,Chevrolet,Bolt EV,2022,BEV,Clean Alternative Fuel Vehicle Eligible,63.7,236,25758.0,5.0,178.0,6.6,156,3.7,109.14
+1G1466E,Kia,EV6,2025,BEV,Clean Alternative Fuel Vehicle Eligible,60.5,222,46606.0,5.5,174.9,5.2,182,3.67,209.94
+1G1577E,Ford,Mustang Mach-E,2023,BEV,Clean Alternative Fuel Vehicle Eligible,80.6,270,46111.0,8.3,180.5,4.5,193,3.35,170.78
+1G1250E,BMW,iX xDrive50,2023,BEV,Clean Alternative Fuel Vehicle Eligible,111.1,310,92656.0,8.8,204.5,4.7,196,2.79,298.89
+1G1464E,Toyota,Prius Prime,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,15.3,48,32288.0,1.5,131.1,6.4,174,3.14,672.67
+1G1543E,BMW,iX xDrive50,2022,BEV,Clean Alternative Fuel Vehicle Eligible,106.8,291,77838.0,10.3,209.0,4.6,207,2.72,267.48
+1G1270E,Volvo,XC60 Recharge,2024,PHEV,Clean Alternative Fuel Vehicle Eligible,19.0,39,59773.0,2.0,201.5,4.5,169,2.05,1532.64
+1G1996E,Volvo,XC60 Recharge,2025,PHEV,Clean Alternative Fuel Vehicle Eligible,19.4,39,67447.0,2.0,181.1,3.7,176,2.01,1729.41
+1G1292E,Kia,Niro EV,2023,BEV,Clean Alternative Fuel Vehicle Eligible,60.3,242,41571.0,5.3,152.1,6.7,159,4.01,171.78
+1G1297E,Chevrolet,Bolt EV,2021,BEV,Clean Alternative Fuel Vehicle Eligible,65.7,227,25000.0,6.8,157.4,6.1,145,3.46,110.13
